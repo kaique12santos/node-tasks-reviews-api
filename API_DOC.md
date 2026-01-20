@@ -381,4 +381,3 @@ const avaliacao = await fetch('/avaliacoes', {
 
 ---
 
-**Desenvolvido com ❤️ usando Node.js e SQLite**
